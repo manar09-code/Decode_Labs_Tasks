@@ -1,0 +1,19 @@
+# DevMate AI - Rule-Based Chatbot
+
+A simple rule-based AI chatbot built using Python.
+
+## Features
+- Greetings
+- Exit commands
+- Programming assistance
+- AI information
+- Time display
+- Continuous conversation loop
+
+## Technologies
+- Python
+- Control Flow
+- If-Else Logic
+
+## Author
+Manar Degachi
