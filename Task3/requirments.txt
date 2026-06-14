@@ -1,0 +1,8 @@
+# SmartFootball AI
+# No external dependencies required
+
+# The project uses only Python built-in libraries:
+# - lists
+# - dictionaries
+# - sets
+# - functions
